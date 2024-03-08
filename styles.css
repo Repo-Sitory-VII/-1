@@ -1,0 +1,15 @@
+h1 {
+    color:darkgreen;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+a:link {
+    color: rgb(255, 153, 0);
+  }
+  
+a:visited {
+    color: rgb(160, 96, 0);
+  }
